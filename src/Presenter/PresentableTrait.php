@@ -1,6 +1,6 @@
-<?php namespace Ohswedd\Presenter;
+<?php namespace Wecomsrl\Presenter;
 
-use Ohswedd\Presenter\Exceptions\PresenterException;
+use Wecomsrl\Presenter\Exceptions\PresenterException;
 
 trait PresentableTrait {
 

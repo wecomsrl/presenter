@@ -1,3 +1,3 @@
-<?php namespace Ohswedd\Presenter\Exceptions;
+<?php namespace Wecomsrl\Presenter\Exceptions;
 
 class PresenterException extends \Exception {}

@@ -1,4 +1,4 @@
-<?php namespace Ohswedd\Presenter;
+<?php namespace Wecomsrl\Presenter;
 
 abstract class Presenter {
 

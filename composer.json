@@ -1,5 +1,5 @@
 {
-    "name": "ohswedd/presenter",
+    "name": "wecomsrl/presenter",
     "version": "1.2",
     "description": "Simple view presenters",
     "license": "MIT",
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Ohswedd\\Presenter\\": "src/Presenter"
+            "Wecomsrl\\Presenter\\": "src/Presenter"
         }
     }
 }

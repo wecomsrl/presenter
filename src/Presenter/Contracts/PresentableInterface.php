@@ -1,4 +1,4 @@
-<?php namespace Ohswedd\Presenter\Contracts;
+<?php namespace Wecomsrl\Presenter\Contracts;
 
 interface PresentableInterface {
 
