@@ -1,0 +1,20 @@
+{
+    "name": "ohswedd/presenter",
+    "version": "1.2",
+    "description": "Simple view presenters",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Edoardo Federici",
+            "email": "jeffrey@laracasts.com"
+        }
+    ],
+    "require": {
+        "php": "8.0.11",
+    },
+    "autoload": {
+        "psr-0": {
+            "Ohswedd\\Presenter\\": "src/Presenter"
+        }
+    }
+}
